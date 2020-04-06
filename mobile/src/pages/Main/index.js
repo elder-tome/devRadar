@@ -30,8 +30,8 @@ function Main(){
         setCurrentRegion({
           latitude,
           longitude,
-          latitudeDelta: 0.02,
-          longitudeDelta: 0.02
+          latitudeDelta: 0.03,
+          longitudeDelta: 0.03
         });
 
       }
